@@ -1,4 +1,4 @@
-# Infant verus Adult Upper Respiratory Microbiome
+# Upper respiratory microbial communities of healthy populations are shaped by niche and age
 
 This repository contains the code necessary to replicate the results of this study comparing healthy infant and adult upper airway microbiomes.
 
