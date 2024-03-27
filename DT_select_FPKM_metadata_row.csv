@@ -1,0 +1,373 @@
+﻿ARO,Pathogen,Mechanism
+23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(A),Streptococcus pyogenes,antibiotic target alteration
+AAC(6')-Ib7,Salmonella enterica,antibiotic inactivation
+AAC(6')-Iz,Stenotrophomonas maltophilia,antibiotic inactivation
+aad(6),Streptococcus oralis,antibiotic inactivation
+aadA11,Pseudomonas aeruginosa,antibiotic inactivation
+aadA27,Acinetobacter lwoffii,antibiotic inactivation
+aadA5,Escherichia coli,antibiotic inactivation
+aadA6,Pseudomonas aeruginosa,antibiotic inactivation
+aadA9,Corynebacterium sp.,antibiotic inactivation
+aadS,Transposon Tn4551,antibiotic inactivation
+aadT,Acinetobacter baumannii,antibiotic efflux
+abeM,Acinetobacter baumannii,antibiotic efflux
+ACI-1,Acidaminococcus fermentans,antibiotic inactivation
+Acinetobacter baumannii AbaF,Acinetobacter baumannii,antibiotic efflux
+Acinetobacter baumannii AbaQ,Acinetobacter baumannii,antibiotic efflux
+Acinetobacter baumannii AmvA,Acinetobacter baumannii,antibiotic efflux
+acrB,Escherichia coli,antibiotic efflux
+acrD,Escherichia coli,antibiotic efflux
+AcrE,Escherichia coli,antibiotic efflux
+AcrF,Escherichia coli,antibiotic efflux
+AcrS,Escherichia coli,antibiotic efflux
+adeB,Acinetobacter baumannii,antibiotic efflux
+adeF,Acinetobacter baumannii,antibiotic efflux
+adeG,Acinetobacter baumannii,antibiotic efflux
+adeH,Acinetobacter baumannii,antibiotic efflux
+adeI,Acinetobacter baumannii,antibiotic efflux
+adeJ,Acinetobacter baumannii,antibiotic efflux
+adeK,Acinetobacter baumannii,antibiotic efflux
+adeL,Acinetobacter baumannii,antibiotic efflux
+adeN,Acinetobacter baumannii,antibiotic efflux
+amrB,Burkholderia pseudomallei,antibiotic efflux
+ANT(3'')-IIa,Acinetobacter baumannii,antibiotic inactivation
+ANT(4')-Ia,Plasmid pTB913,antibiotic inactivation
+ANT(6)-Ia,Exiguobacterium sp.,antibiotic inactivation
+ANT(6)-Ib,Campylobacter fetus,antibiotic inactivation
+ANT(9)-Ia,Staphylococcus aureus,antibiotic inactivation
+ANT(9)-Ib,Enterococcus faecalis,antibiotic inactivation
+APH(2'')-If,Campylobacter jejuni,antibiotic inactivation
+APH(3')-Ia,Serratia marcescens,antibiotic inactivation
+APH(3'')-Ia,Streptomyces griseus,antibiotic inactivation
+APH(3')-Ib,Plasmid RP4,antibiotic inactivation
+APH(3'')-Ib,Pseudomonas aeruginosa,antibiotic inactivation
+APH(3')-IIa,Escherichia coli,antibiotic inactivation
+APH(3')-IIIa,Campylobacter coli,antibiotic inactivation
+APH(4)-Ia,Escherichia coli,antibiotic inactivation
+APH(6)-Ib,Streptomyces glaucescens,antibiotic inactivation
+APH(6)-Id,Pseudomonas aeruginosa,antibiotic inactivation
+APH(9)-Ic,Stenotrophomonas maltophilia,antibiotic inactivation
+arlR,Staphylococcus aureus,antibiotic efflux
+arlS,Staphylococcus aureus,antibiotic efflux
+arnA,Pseudomonas aeruginosa,antibiotic target alteration
+ArnT,Klebsiella pneumoniae,antibiotic target alteration
+AxyX,Achromobacter insuavis,antibiotic efflux
+AxyY,Achromobacter insuavis,antibiotic efflux
+bacA,Escherichia coli,antibiotic target alteration
+basS,Pseudomonas aeruginosa,antibiotic target alteration; antibiotic efflux
+Bifidobacterium adolescentis rpoB mutants conferring resistance to rifampicin,Bifidobacterium adolescentis,antibiotic target alteration; antibiotic target replacement
+Bifidobacterium bifidum ileS conferring resistance to mupirocin,Bifidobacterium bifidum,antibiotic target alteration
+blt,Bacillus subtilis,antibiotic efflux
+Burkholderia pseudomallei Omp38,Burkholderia pseudomallei,reduced permeability to antibiotic
+Campylobacter coli chloramphenicol acetyltransferase,Campylobacter coli,antibiotic inactivation
+carA,Streptomyces thermotolerans,antibiotic target protection
+catA8,Listeria monocytogenes,antibiotic inactivation
+catII,Haemophilus influenzae,antibiotic inactivation
+catII from Escherichia coli K-12,Escherichia coli,antibiotic inactivation
+catQ,Clostridium perfringens,antibiotic inactivation
+catS,Streptococcus pyogenes,antibiotic inactivation
+CblA-1,mixed culture,antibiotic inactivation
+ceoB,Burkholderia cepacia,antibiotic efflux
+cfrA,Staphylococcus warneri,antibiotic target alteration
+CfxA3,Capnocytophaga ochracea,antibiotic inactivation
+CfxA6,uncultured organism,antibiotic inactivation
+Clostridium sporogenes cplR,Clostridium sporogenes,antibiotic target protection
+CMH-5,Enterobacter cloacae,antibiotic inactivation
+cmlA9,Salmonella enterica,antibiotic efflux
+cmlv,Streptomyces venezuelae,antibiotic inactivation
+cmrA,Rhodococcus rhodochrous,antibiotic efflux
+cmx,Corynebacterium striatum,antibiotic efflux
+CMY-157,Citrobacter sp.,antibiotic inactivation
+Corynebacterium striatum tetA,Corynebacterium striatum,antibiotic efflux
+cprR,Pseudomonas aeruginosa,antibiotic target alteration; antibiotic efflux
+cpxA,Escherichia coli,antibiotic efflux
+CRP,Escherichia coli,antibiotic efflux
+CSP-1,"Bacteria, Viruses,",antibiotic inactivation
+dfrA26,Escherichia coli,antibiotic target replacement
+dfrC,Staphylococcus epidermidis,antibiotic target replacement
+dfrE,Enterococcus faecalis,antibiotic target replacement
+dfrF,Enterococcus faecalis,antibiotic target replacement
+dfrG,Staphylococcus aureus,antibiotic target replacement
+efrA,Enterococcus faecalis,antibiotic efflux
+efrB,Enterococcus faecium,antibiotic efflux
+emrA,Escherichia coli,antibiotic efflux
+emrK,Escherichia coli,antibiotic efflux
+emrR,Escherichia coli,antibiotic efflux
+emrY,Escherichia coli,antibiotic efflux
+Enterobacter cloacae acrA,Enterobacter cloacae,antibiotic efflux
+eptA,Escherichia coli,antibiotic target alteration
+eptB,Klebsiella pneumoniae,antibiotic target alteration
+EreD,Riemerella anatipestifer,antibiotic inactivation
+Erm(36),Micrococcus luteus,antibiotic target alteration
+Erm(38),Mycolicibacterium smegmatis,antibiotic target alteration
+erm(56),Trueperella pyogenes,antibiotic target alteration
+ErmA,Staphylococcus aureus,antibiotic target alteration
+ErmB,Enterococcus faecium,antibiotic target alteration
+ErmC,Staphylococcus epidermidis,antibiotic target alteration
+ErmF,Bacteroides fragilis,antibiotic target alteration
+ErmG,Bacteroides thetaiotaomicron,antibiotic target alteration
+ErmT,Plasmid pGT633,antibiotic target alteration
+ErmV,Streptomyces viridochromogenes,antibiotic target alteration
+ErmX,Plasmid pNG2,antibiotic target alteration
+ErmY,Staphylococcus aureus,antibiotic target alteration
+Escherichia coli acrA,Escherichia coli,antibiotic efflux
+Escherichia coli emrE,Escherichia coli,antibiotic efflux
+Escherichia coli mdfA,Escherichia coli,antibiotic efflux
+evgA,Escherichia coli,antibiotic efflux
+evgS,Escherichia coli,antibiotic efflux
+EXO-1,Streptomyces albus,antibiotic inactivation
+facT,Streptomyces sp.,antibiotic efflux
+farA,Neisseria meningitidis,antibiotic efflux
+farB,Neisseria meningitidis,antibiotic efflux
+floR,Escherichia coli,antibiotic efflux
+FosA2,Enterobacter cloacae,antibiotic inactivation
+FosA6,Escherichia coli,antibiotic inactivation
+FosB2,Bacillus anthracis,antibiotic inactivation
+FosD,Staphylococcus aureus,antibiotic inactivation
+fusB,Staphylococcus aureus,antibiotic target protection
+fusC,Staphylococcus aureus,antibiotic target protection
+fusD,Staphylococcus saprophyticus,antibiotic target protection
+FusF,Staphylococcus cohnii,antibiotic target protection
+fusH,Streptomyces lividans,antibiotic inactivation
+gadW,Escherichia coli,antibiotic efflux
+gadX,Escherichia coli,antibiotic efflux
+gimA,Streptomyces ambofaciens,antibiotic inactivation
+HelR,Streptomyces venezuelae,antibiotic target protection
+hmrM,Haemophilus influenzae,antibiotic efflux
+H-NS,Escherichia coli,antibiotic efflux
+hp1181,Helicobacter pylori,antibiotic efflux
+ICR-Mc,Moraxella catarrhalis,antibiotic target alteration
+ICR-Mo,Moraxella osloensis,antibiotic target alteration
+IreK,Enterococcus faecalis,reduced permeability to antibiotic
+iri,Rhodococcus hoagii,antibiotic inactivation
+kdpD,Staphylococcus aureus,antibiotic efflux
+kdpE,Escherichia coli,antibiotic efflux
+Klebsiella pneumoniae acrA,Klebsiella pneumoniae,antibiotic efflux
+Klebsiella pneumoniae KpnE,Klebsiella pneumoniae,antibiotic efflux
+Klebsiella pneumoniae KpnG,Klebsiella sp.,antibiotic efflux
+Klebsiella pneumoniae OmpK37,Klebsiella pneumoniae,reduced permeability to antibiotic
+leuO,Escherichia coli,antibiotic efflux
+lfrA,Mycolicibacterium smegmatis,antibiotic efflux
+Limosilactobacillus reuteri cat-TC,Limosilactobacillus reuteri,antibiotic inactivation
+LlmA 23S ribosomal RNA methyltransferase,Paenibacillus sp.,antibiotic target alteration
+lmrC,Streptomyces lincolnensis,antibiotic target protection
+lmrD,Lactococcus lactis,antibiotic efflux
+lnuA,Staphylococcus haemolyticus,antibiotic inactivation
+lnuC,Streptococcus agalactiae,antibiotic inactivation
+lnuG,Enterococcus faecalis,antibiotic inactivation
+LnuH,Riemerella anatipestifer,antibiotic inactivation
+LpsA,Haemophilus influenzae,reduced permeability to antibiotic
+LpsB,Acinetobacter baumannii,reduced permeability to antibiotic
+LptD,Klebsiella pneumoniae,antibiotic efflux
+LRA-10,uncultured bacterium,antibiotic inactivation
+lsaC,Streptococcus agalactiae,antibiotic target protection
+lsaE,Enterococcus faecalis,antibiotic target protection
+macA,Neisseria gonorrhoeae,antibiotic efflux
+macB,Neisseria gonorrhoeae,antibiotic efflux
+marA,Escherichia coli,antibiotic efflux; reduced permeability to antibiotic
+mdeA,Streptococcus mutans,antibiotic efflux
+mdsB,Salmonella enterica,antibiotic efflux
+mdsC,Salmonella enterica,antibiotic efflux
+mdtA,Escherichia coli,antibiotic efflux
+mdtB,Escherichia coli,antibiotic efflux
+mdtC,Escherichia coli,antibiotic efflux
+mdtE,Escherichia coli,antibiotic efflux
+mdtF,Escherichia coli,antibiotic efflux
+mdtG,Escherichia coli,antibiotic efflux
+mdtH,Escherichia coli,antibiotic efflux
+MdtK,Salmonella enterica,antibiotic efflux
+mdtM,Escherichia coli,antibiotic efflux
+mdtN,Escherichia coli,antibiotic efflux
+mdtO,Escherichia coli,antibiotic efflux
+mdtP,Escherichia coli,antibiotic efflux
+MdtQ,Klebsiella pneumoniae,reduced permeability to antibiotic
+mecA,Staphylococcus aureus,antibiotic target replacement
+mecI,Staphylococcus aureus,antibiotic target replacement
+mecR1,Staphylococcus aureus,antibiotic target replacement
+mef(E),Streptococcus pneumoniae,antibiotic efflux
+Mef(En2),Bacteroides fragilis,antibiotic efflux
+mel,Streptococcus pyogenes,antibiotic target protection
+mepA,Staphylococcus aureus,antibiotic efflux
+mepR,Staphylococcus aureus,antibiotic efflux
+MexA,Pseudomonas aeruginosa,antibiotic efflux
+MexB,Pseudomonas aeruginosa,antibiotic efflux
+MexC,Pseudomonas aeruginosa,antibiotic efflux
+MexD,Pseudomonas aeruginosa,antibiotic efflux
+MexE,Pseudomonas aeruginosa,antibiotic efflux
+MexF,Pseudomonas aeruginosa,antibiotic efflux
+MexH,Pseudomonas aeruginosa,antibiotic efflux
+MexI,Pseudomonas aeruginosa,antibiotic efflux
+MexK,Pseudomonas aeruginosa,antibiotic efflux
+MexL,Pseudomonas aeruginosa,antibiotic efflux
+mexN,Pseudomonas aeruginosa,antibiotic efflux
+mexP,Pseudomonas aeruginosa,antibiotic efflux
+mexQ,Pseudomonas aeruginosa,antibiotic efflux
+MexV,Pseudomonas aeruginosa,antibiotic efflux
+MexW,Pseudomonas aeruginosa,antibiotic efflux
+mexX,Pseudomonas aeruginosa,antibiotic efflux
+mexY,Pseudomonas aeruginosa,antibiotic efflux
+mgrA,Staphylococcus aureus,antibiotic efflux
+MIR-14,Enterobacter asburiae,antibiotic inactivation
+mphB,Escherichia coli,antibiotic inactivation
+mphC,Staphylococcus aureus,antibiotic inactivation
+mphE,uncultured bacterium,antibiotic inactivation
+mphG,Photobacterium damselae,antibiotic inactivation
+mphO,Brachybacterium paraconglomeratum,antibiotic inactivation
+mreA,Streptococcus agalactiae,antibiotic efflux
+Mrx,Aeromonas hydrophila,antibiotic inactivation
+msbA,Escherichia coli,antibiotic efflux
+msr(I),Streptococcus pyogenes,antibiotic target protection
+msrA,Staphylococcus epidermidis,antibiotic target protection
+msrE,Acinetobacter baumannii,antibiotic target protection
+msrF,Macrococcus canis,antibiotic target protection
+msrH,Macrococcus canis,antibiotic target protection
+mtrA,Neisseria gonorrhoeae,antibiotic efflux
+mtrC,Neisseria meningitidis,antibiotic efflux
+mtrD,Neisseria meningitidis,antibiotic efflux
+mtrE,Neisseria gonorrhoeae,antibiotic efflux
+MuxA,Pseudomonas aeruginosa,antibiotic efflux
+MuxB,Pseudomonas aeruginosa,antibiotic efflux
+MuxC,Pseudomonas aeruginosa,antibiotic efflux
+Nocardia farcinica rox,Nocardia farcinica,antibiotic inactivation
+norA,Staphylococcus epidermidis,antibiotic efflux
+norB,Listeria monocytogenes,antibiotic efflux
+norC,Staphylococcus aureus,antibiotic efflux
+novA,Streptomyces niveus,antibiotic efflux
+oleB,Streptomyces antibioticus,antibiotic target protection
+oleC,Streptomyces antibioticus,antibiotic efflux
+oleD,Streptomyces antibioticus,antibiotic inactivation
+OmpA,Klebsiella pneumoniae,reduced permeability to antibiotic
+OpmB,Pseudomonas aeruginosa,antibiotic efflux
+OpmH,Pseudomonas aeruginosa,antibiotic efflux
+OprA,Pseudomonas aeruginosa,antibiotic efflux
+OprJ,Pseudomonas aeruginosa,antibiotic efflux
+OprM,Pseudomonas aeruginosa,antibiotic efflux
+OprN,Pseudomonas aeruginosa,antibiotic efflux
+OprZ,Achromobacter insuavis,antibiotic efflux
+optrA,Enterococcus faecalis,antibiotic target protection
+oqxA,Escherichia coli,antibiotic efflux
+oqxB,Escherichia coli,antibiotic efflux
+otr(C),Streptomyces rimosus,antibiotic efflux
+OXA-347,uncultured bacterium,antibiotic inactivation
+OXA-361,Acinetobacter lwoffii,antibiotic inactivation
+OXA-85,Fusobacterium nucleatum,antibiotic inactivation
+ParR,Pseudomonas aeruginosa,antibiotic efflux; reduced permeability to antibiotic
+ParS,Pseudomonas aeruginosa,antibiotic efflux; reduced permeability to antibiotic
+patA,Streptococcus pneumoniae,antibiotic efflux
+patB,Streptococcus pneumoniae,antibiotic efflux
+PC1 beta-lactamase (blaZ),Staphylococcus aureus,antibiotic inactivation
+pmrA,Streptococcus pneumoniae,antibiotic efflux
+PmrF,Escherichia coli,antibiotic target alteration
+poxtA,Staphylococcus aureus,antibiotic target protection
+PRC-1,Pseudomonas wenzhouensis,antibiotic inactivation
+Pseudomonas aeruginosa CpxR,Pseudomonas aeruginosa,antibiotic efflux
+Pseudomonas aeruginosa soxR,Pseudomonas aeruginosa,antibiotic target alteration; antibiotic efflux
+putative nickel/cobalt transporter,Mycobacterium tuberculosis,antibiotic efflux
+qacA,Staphylococcus aureus,antibiotic efflux
+qacB,Staphylococcus aureus,antibiotic efflux
+qacEdelta1,Pseudomonas aeruginosa,antibiotic efflux
+qacH,Staphylococcus saprophyticus,antibiotic efflux
+qacL,Vibrio cholerae,antibiotic efflux
+ramA,Enterobacter cloacae,antibiotic efflux; reduced permeability to antibiotic
+RanA,Riemerella anatipestifer,antibiotic efflux
+RanB,Riemerella anatipestifer,antibiotic efflux
+RbpA,Mycolicibacterium smegmatis,antibiotic target protection
+RlmA(II),Streptococcus pneumoniae,antibiotic target alteration
+rosA,Yersinia enterocolitica,antibiotic efflux
+rphA,Streptomyces sp.,antibiotic inactivation
+rphB,Paenibacillus sp.,antibiotic inactivation
+rpoB2,Nocardia farcinica,antibiotic target alteration; antibiotic target replacement
+rsmA,Pseudomonas aeruginosa,antibiotic efflux
+salA,Mammaliicoccus sciuri,antibiotic target protection
+salB,Mammaliicoccus lentus,antibiotic target protection
+SAT-2,Escherichia coli,antibiotic inactivation
+SAT-4,Campylobacter coli,antibiotic inactivation
+sdiA,Salmonella enterica,antibiotic efflux
+sdrM,Staphylococcus aureus,antibiotic efflux
+sepA,Staphylococcus,antibiotic efflux
+smeA,Stenotrophomonas maltophilia,antibiotic efflux
+smeB,Stenotrophomonas maltophilia,antibiotic efflux
+smeC,Stenotrophomonas maltophilia,antibiotic efflux
+smeD,Stenotrophomonas maltophilia,antibiotic efflux
+smeE,Stenotrophomonas maltophilia,antibiotic efflux
+smeF,Stenotrophomonas maltophilia,antibiotic efflux
+smeR,Stenotrophomonas maltophilia,antibiotic efflux
+smeS,Stenotrophomonas maltophilia,antibiotic efflux
+srmB,Streptomyces ambofaciens,antibiotic target protection
+Staphylococcus aureus FosB,Staphylococcus aureus,antibiotic inactivation
+Staphylococcus aureus LmrS,Staphylococcus aureus,antibiotic efflux
+Staphylococcus aureus mupA conferring resistance to mupirocin,Staphylococcus aureus,antibiotic target alteration
+Staphylococcus aureus norA,Staphylococcus aureus,antibiotic efflux
+Streptomyces rimosus otr(A),Streptomyces rimosus,antibiotic target protection
+Streptomyces venezuelae rox,Streptomyces venezuelae,antibiotic inactivation
+sul1,Vibrio fluvialis,antibiotic target replacement
+sul2,Vibrio cholerae,antibiotic target replacement
+sul4,uncultured bacterium,antibiotic target replacement
+TaeA,Paenibacillus sp.,antibiotic efflux
+TEM-128,Escherichia coli,antibiotic inactivation
+TEM-242,Providencia stuartii,antibiotic inactivation
+tet(30),Agrobacterium fabrum,antibiotic efflux
+tet(32),Escherichia coli,antibiotic target protection
+tet(33),Corynebacterium glutamicum,antibiotic efflux
+tet(35),Vibrio harveyi,antibiotic efflux
+tet(37),uncultured bacterium,antibiotic inactivation
+tet(38),Staphylococcus aureus,antibiotic efflux
+tet(39),Acinetobacter sp.,antibiotic efflux
+tet(40),uncultured bacterium,antibiotic efflux
+tet(42),Micrococcus sp.,antibiotic efflux
+tet(44),Campylobacter fetus,antibiotic target protection
+tet(59),uncultured bacterium,antibiotic efflux
+tet(64),Burkholderia ubonensis,antibiotic efflux
+tet(A),Shigella sonnei,antibiotic efflux
+tet(B),Gram-negative bacterium,antibiotic efflux
+tet(C),Aeromonas salmonicida,antibiotic efflux
+tet(G),Pseudomonas sp.,antibiotic efflux
+tet(H),Pasteurella multocida,antibiotic efflux
+tet(K),Staphylococcus aureus,antibiotic efflux
+tet(L),Geobacillus stearothermophilus,antibiotic efflux
+tet(M),Erysipelothrix rhusiopathiae,antibiotic target protection
+tet(O),Campylobacter jejuni,antibiotic target protection
+tet(O/32/O),Clostridiaceae bacterium,antibiotic target protection
+tet(O/M/O),Campylobacter coli,antibiotic target protection
+tet(O/W/32/O),Lactobacillus johnsonii,antibiotic target protection
+tet(Q),Bacteroides fragilis,antibiotic target protection
+tet(S),Listeria monocytogenes,antibiotic target protection
+tet(T),Streptococcus pyogenes,antibiotic target protection
+tet(V),Mycolicibacterium smegmatis,antibiotic efflux
+tet(W),Butyrivibrio fibrisolvens,antibiotic target protection
+tet(W/32/O),Trueperella pyogenes,antibiotic target protection
+tet(W/N/W),uncultured bacterium,antibiotic target protection
+tet(X),Bacteroides fragilis,antibiotic inactivation
+tet(X1),Bacteroides thetaiotaomicron,antibiotic inactivation
+tet(Z),Corynebacterium glutamicum,antibiotic efflux
+tetA(46),Streptococcus australis,antibiotic efflux
+tetA(60),uncultured bacterium,antibiotic efflux
+tetB(46),Streptococcus australis,antibiotic efflux
+tetB(60),uncultured bacterium,antibiotic efflux
+tetB(P),Clostridium perfringens,antibiotic target protection
+THIN-B,Janthinobacterium lividum,antibiotic inactivation
+tlrC,Streptomyces fradiae,antibiotic target protection
+tmrB,Bacillus subtilis,reduced permeability to antibiotic
+TolC,Escherichia coli,antibiotic efflux
+TriA,Pseudomonas aeruginosa,antibiotic efflux
+TriC,Pseudomonas aeruginosa,antibiotic efflux
+TxR,Vibrio harveyi,antibiotic efflux
+ugd,Escherichia coli,antibiotic target alteration
+vanD,Enterococcus faecium,antibiotic target alteration
+vanH gene in vanO cluster,Rhodococcus hoagii,antibiotic target alteration
+vanO,Rhodococcus hoagii,antibiotic target alteration
+vanR gene in vanE cluster,Enterococcus faecalis,antibiotic target alteration
+vanR gene in vanF cluster,Paenibacillus popilliae,antibiotic target alteration
+vanR gene in vanG cluster,Enterococcus faecalis,antibiotic target alteration
+vanR gene in vanM cluster,Enterococcus faecium,antibiotic target alteration
+vanR gene in vanN cluster,Enterococcus faecium,antibiotic target alteration
+vanR gene in vanO cluster,Rhodococcus hoagii,antibiotic target alteration
+vanS gene in vanO cluster,Rhodococcus hoagii,antibiotic target alteration
+vanX gene in vanI cluster,Desulfitobacterium hafniense,antibiotic target alteration
+vatE,Enterococcus faecium,antibiotic inactivation
+vgaA,Staphylococcus aureus,antibiotic target protection
+vgaB,Staphylococcus aureus,antibiotic target protection
+vgaE,Staphylococcus aureus,antibiotic target protection
+vmlR,Bacillus subtilis,antibiotic target protection
+YajC,Pseudomonas aeruginosa,antibiotic efflux
+YojI,Escherichia coli,antibiotic efflux
