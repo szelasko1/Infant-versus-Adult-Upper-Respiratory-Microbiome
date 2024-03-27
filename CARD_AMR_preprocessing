@@ -1,0 +1,11 @@
+#Resistance Gene Identifier to predict resistomes from metagenomic sequencing reads based on reference sequences in the Comprehensive Antibiotic Resistnace Database and read mapping algorithm
+#Full documentation of CARD found here: https://github.com/arpcard/rgi
+
+#All metagenomes were normalized to a paired read count of 500,000 using SeqTK (https://github.com/lh3/seqtk) and sample below this read depth were removed from futher analyses
+  seqtk sample -s100 read1.fq 250000 > sub1.fq
+  seqtk sample -s100 read2.fq 250000 > sub2.fq
+
+#Metagenomes were aligned to the cannonical CARD reference sequences using KMA
+rgi bwt --read_one /path/to/fastq/R1.fastq.gz
+  --read_two /path/to/fastq/R2.fastq.gz --output_file output_prefix
+  --local
